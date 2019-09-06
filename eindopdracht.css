@@ -1,0 +1,45 @@
+body   {
+        background-image: url("http://s1.1zoom.me/b5050/585/Texture_Brick_Wall_White_545270_1920x1080.jpg")
+    }
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover, a:active {
+    background-color: red;
+}
+{
+     background-image: url("http://s1.1zoom.me/b5050/585/Texture_Brick_Wall_White_545270_1920x1080.jpg")
+   }
+li {
+  font-family: fantasy;
+  font-size: 30px;
+
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-family: fantasy;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-family: fantasy;
+}
